@@ -39,7 +39,7 @@ Full JWT token based authentication : login, register, forgot password, reset pa
    ```bash
    npm install
 3. Start the frontend development server:
-   ``bash
+   ```bash
    npm run dev
 
 ## Running the Project
